@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelEditor", "ExcelEditor\ExcelEditor.csproj", "{9B50C6A6-F1A8-4E36-A4CE-88813C44C9C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelTester", "ExcelTester\ExcelTester.csproj", "{55FD3D38-2E34-4BF0-85D8-B216BD6D7F81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelEditor.Tests", "ExcelEditor.Tests\ExcelEditor.Tests.csproj", "{F3EC2661-9460-40F5-B828-59AE083FA676}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B50C6A6-F1A8-4E36-A4CE-88813C44C9C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B50C6A6-F1A8-4E36-A4CE-88813C44C9C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B50C6A6-F1A8-4E36-A4CE-88813C44C9C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B50C6A6-F1A8-4E36-A4CE-88813C44C9C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55FD3D38-2E34-4BF0-85D8-B216BD6D7F81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55FD3D38-2E34-4BF0-85D8-B216BD6D7F81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55FD3D38-2E34-4BF0-85D8-B216BD6D7F81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55FD3D38-2E34-4BF0-85D8-B216BD6D7F81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3EC2661-9460-40F5-B828-59AE083FA676}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3EC2661-9460-40F5-B828-59AE083FA676}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3EC2661-9460-40F5-B828-59AE083FA676}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3EC2661-9460-40F5-B828-59AE083FA676}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
